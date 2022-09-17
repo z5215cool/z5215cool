@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 本人是雅礼中学在校生
-<br>🌱 I’m currently learning HTML
+<br>🌱 我正在学HTML
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z5215cool&theme=algolia&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=z5215cool&theme=algolia&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
